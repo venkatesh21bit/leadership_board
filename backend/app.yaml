@@ -1,0 +1,15 @@
+runtime: python39
+
+env_variables:
+  GITHUB_CLIENT_ID: "your_github_client_id_here"
+  GITHUB_CLIENT_SECRET: "your_github_client_secret_here"
+  GITHUB_REDIRECT_URI: "https://leadership-board-api-820438968871.us-central1.run.app/api/v1/auth/github/callback"
+  GITHUB_TOKEN: "your_github_personal_access_token_here"
+  GITHUB_WEBHOOK_SECRET: "your_webhook_secret_here"
+  FRONTEND_URL: "https://your-frontend-domain.com"
+  DATABASE_URL: "sqlite:///./leaderboard.db"
+
+automatic_scaling:
+  min_instances: 1
+  max_instances: 10
+  target_cpu_utilization: 0.6
