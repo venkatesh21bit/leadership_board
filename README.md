@@ -173,7 +173,5 @@ Create these labels in your GitHub repository for automatic point calculation:
 
 - Enhanced by AI Assistant for dual-track competition
 - Original frontend by:
-  - [Kiran Rajeev KV](https://github.com/KiranRajeev-KV)
-  - [Vijay SB](https://github.com/vijaysb0613)
-  - [Ritesh Koushik](https://github.com/IAmRiteshKoushik/)
-  - [Ashwin Narayanan S](https://github.com/Ashrockzzz2003)
+  - [Venkatesh](https://github.com/venkatesh21bit)
+  
